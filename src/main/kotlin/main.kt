@@ -8,4 +8,5 @@ fun main(args: Array<String>) {
     val valores = Apartado2(10){
         Random.nextInt(50,250)
     }
+
 }
