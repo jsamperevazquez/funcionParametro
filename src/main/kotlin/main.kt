@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    println(Apartado1.miArray)
 }
