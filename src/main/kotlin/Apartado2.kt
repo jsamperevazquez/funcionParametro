@@ -17,8 +17,5 @@ open class Apartado2(var tamano: Int, rellenoArray: (Int) -> Int) {
     var miArray = IntArray(
         tamano,
         rellenoArray
-    ).forEach {
-        println("$orden ---> $it")
-        orden++
-    }
+    )
 }
